@@ -38,16 +38,6 @@ Traditional online shopping lacks the ability to try clothes before buying, caus
 
 ---
 
-## 📸 Sample Screens
-
-> 🎥 Demo video attached in repo or see below 👇  
-> https://youtu.be/_S6aUGS2r1U?si=jJJMTSmTtxpIKfOv
-
-![Try On Sample](assets/sample_tryon.png)  
-*Real-time try-on experience with accessories*
-
----
-
 ## 🚀 How to Run the Project
 
 ```bash
